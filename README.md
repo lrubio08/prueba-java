@@ -1,3 +1,3 @@
 # prueba-java
 ## Integrantes
-* Luis Rubio
+* Luis Rubio , Rama main
